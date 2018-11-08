@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3_Alternative</string>
+    <string name="message">Apa khabar,Wong Wei Yao</string>
+    <string name="showMessage">Tunjuk Mesej</string>
+</resources>
